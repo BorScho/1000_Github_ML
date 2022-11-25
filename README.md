@@ -12,14 +12,12 @@ Data Set Information:
 The dataset describes diagnosing of cardiac Single Proton Emission Computed Tomography (SPECT) images. Each of the patients is classified into two categories: normal <br> 
 and abnormal. The database of 267 SPECT image sets (patients) was processed to extract features that summarize the original SPECT images. As a result, 44 continuous <br> feature pattern was created for each patient. The CLIP3 algorithm was used to generate classification rules from these patterns. The CLIP3 algorithm generated rules <br> 
 that were 77.0% accurate (as compared with cardilogists' diagnoses).<br> 
-<br>
 
 ## Breast Cancer Wisconsin (Diagnostic) Data Set ##
 Data Set Information:
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
 
-
-## Problem description ##
+## Flu-Shot Competition ##
 Source https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/
 The goal is to predict how likely individuals are to receive their H1N1 and seasonal flu vaccines. Specifically, you'll be predicting two probabilities: <br>
 one for h1n1_vaccine and one for seasonal_vaccine.<br>
