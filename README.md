@@ -17,3 +17,12 @@ that were 77.0% accurate (as compared with cardilogists' diagnoses).<br>
 ## Breast Cancer Wisconsin (Diagnostic) Data Set ##
 Data Set Information:
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
+
+
+## Problem description ##
+Source https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/
+The goal is to predict how likely individuals are to receive their H1N1 and seasonal flu vaccines. Specifically, you'll be predicting two probabilities: <br>
+one for h1n1_vaccine and one for seasonal_vaccine.<br>
+<br>
+Each row in the dataset represents one person who responded to the National 2009 H1N1 Flu Survey.<br>
+<br>
